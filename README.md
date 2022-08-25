@@ -17,8 +17,8 @@
 
 <h3 align="left">What i have to show</h3>
 
-- a School Mangement and dashboard system as a learning experiance 
-- an ecom application as a learning experiance
+- a School Mangement and dashboard system as a learning experiance   <a href="https://school.khaledsourani.com/" >school</a> 
+- an ecom application as a learning experiance <a href="https://ecom.khaledsourani.com/" >ecom</a>
 - a website for a guide about the music in attack on titan anime (personal project)  <a href="http://dode.host" target="blank">website</a>
 
 <h3 align="left">Experiance</h3>
