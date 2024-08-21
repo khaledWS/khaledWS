@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Khaled</h1>
 <h3 align="center">Software Engineer</h3>
 
-Innovative Full Stack Laravel Developer | Passionate about creating seamless web applications with PHP, Laravel, and more  Constantly evolving and embracing challenges | Eager to contribute to visionary projects on GitHub and grow together.
+A highly ambitious yet sometimes procrastinating software engineer/full-stack Laravel developer, seeking new challenges that will lead to rapid growth and exposure to different environments and roles.
+
+Specialized in developing robust web applications using Laravel, jQuery, and MySQL, while leveraging technologies such as GitHub. Experienced in working on various healthcare information management systems (HIMS) and educational platforms.
+
+I am keen to take on new challenges and contribute to innovative projects
 
 <h3 align="left">How to contact me</h3>
   - Email: khaledsourani98@gmail.com
@@ -14,23 +18,10 @@ Innovative Full Stack Laravel Developer | Passionate about creating seamless web
 - MYSQL
 - Git, Github
 - AWS
+- python
+- vue
+- livewire
 
-<h3 align="left">Tools Iam learning</h3>
-
-- Vue
-- Typescript
-- Python
-
-
-<h3 align="left">Experiance</h3>
-
-- Leveraged existing database to create PMRS, a health system managing diabetes patients, streamlining patient management.
-  
-- Implemented communication and Competition systems in STEM, an educational platform, fostering user interactivity.
-  
-- Developed and maintained Courses module in Niet, an educational platform, enhancing user engagement and learning outcomes.
-  
-- Contributed to AFAS, a health system for diet clinics, managing patients and diet plans, and establishing a comprehensive Arabic food database.
 
 
 
