@@ -9,6 +9,7 @@ I am keen to take on new challenges and contribute to innovative projects
 
 <h3 align="left">How to contact me</h3>
   - Email: khaledsourani98@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/khaled-w-sourani/
   
 <h3 align="left">Tools I work With</h3>
 
@@ -21,14 +22,3 @@ I am keen to take on new challenges and contribute to innovative projects
 - python
 - vue
 - livewire
-
-
-
-
-<h3 align="left">About me</h3> 
-
-- 🌱 I’m currently reading **Grooking algorthims**
-
-- 🤝 I’m always looking to make new Connections
-
-- ⚡ Fun fact **I like Anime**
